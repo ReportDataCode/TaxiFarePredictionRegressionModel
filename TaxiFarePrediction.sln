@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{B8B90735-258B-4590-BE0B-524F5EC40DB2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFare_API", "TaxiFare_API\TaxiFare_API.csproj", "{C93E0816-F5D3-4CAD-AE74-025E4DB6E19C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B8B90735-258B-4590-BE0B-524F5EC40DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B90735-258B-4590-BE0B-524F5EC40DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B90735-258B-4590-BE0B-524F5EC40DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93E0816-F5D3-4CAD-AE74-025E4DB6E19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93E0816-F5D3-4CAD-AE74-025E4DB6E19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93E0816-F5D3-4CAD-AE74-025E4DB6E19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93E0816-F5D3-4CAD-AE74-025E4DB6E19C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TaxiFarePrediction": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
